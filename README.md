@@ -1,11 +1,3 @@
-<style>
-	.image {
-		max-width:640px;
-		max-heigth:480px;
-		border-radius:20px
-	}
-</style>
-
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -19,7 +11,9 @@
 
 A small application that turns a M5Stack Core2 into a digital Love Globe.
 
-<img class="image" src="/assets/images/love-globe.gif" width="640" height="480" />
+<p align="center">
+	<img src="/assets/images/love-globe.gif" width=50% height=50% />
+</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
